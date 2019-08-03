@@ -1,5 +1,6 @@
 # fast-Non-local-Means-and-Asymptotic-Non-local-Means
 
+Image-Denoising-Algorithm:Non-Local means(NLM)、fast Non-local Means（FNLM）、Asymptotic Non-local Means（ANLM）
 
 Asymptotic-Non-local-Means-Image-Denoising-Algorithm
 
